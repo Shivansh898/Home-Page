@@ -19,6 +19,9 @@ HTML
 CSS
 Demo
 View the live website here: [Add your website link]
+How to Run
+Open the live demo: https://shivansh898.github.io/Home-Page/
+
 
 Author
 Shivansh
